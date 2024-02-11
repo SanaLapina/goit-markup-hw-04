@@ -97,7 +97,6 @@ button {
     margin-right: 76px;
 }
 .header-item {
-    color: #404bbf;
 }
 .curent{
     position: relative;
@@ -122,6 +121,7 @@ button {
     line-height: 1.50;
     letter-spacing: 0.02em;
     padding: 24px 0;
+    color: #404bbf;
 }
 
 .header-menu-link:hover,
