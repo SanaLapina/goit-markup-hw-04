@@ -97,11 +97,12 @@ button {
     margin-right: 76px;
 }
 .header-item {
+    color: #404bbf;
 }
 .curent{
     position: relative;
-    color: #404bbf;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
+
 .curent::after {
     content: '';
     width: 100%;
