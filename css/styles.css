@@ -100,7 +100,7 @@ button {
 }
 .curent{
     position: relative;
-        color: #404bbf;
+     color: #404bbf;
 }
 .curent::after {
     content: '';
