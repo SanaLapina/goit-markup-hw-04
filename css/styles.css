@@ -96,7 +96,8 @@ button {
     align-items: center;
     margin-right: 76px;
 }
-.header-item {
+.header-item-curent {
+    color: #404bbf
 }
 .curent{
     position: relative;
